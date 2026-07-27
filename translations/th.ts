@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="lo">
+<TS version="2.1" language="th">
 <context>
     <name>CategoryModel</name>
     <message>
         <location filename="../src/maincomponentplugin/qml/CategoryModel.qml" line="9"/>
         <source>Welcome</source>
-        <translation>ຍິນດີຕ້ອນຮັບ</translation>
+        <translation>ยินดีต้อนรับ</translation>
     </message>
     <message>
         <location filename="../src/maincomponentplugin/qml/CategoryModel.qml" line="15"/>
         <source>Other</source>
-        <translation>ອື່ນໆ</translation>
+        <translation>อื่นๆ</translation>
     </message>
 </context>
 <context>
@@ -21,27 +21,27 @@
         <location filename="../src/preloadplugin/Preload.qml" line="45"/>
         <location filename="../src/preloadplugin/Preload.qml" line="51"/>
         <source>Deepin Tweak</source>
-        <translation>Deepin Tweak</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/preloadplugin/Preload.qml" line="61"/>
         <source>Special Thanks</source>
-        <translation>ຄຳຂອບໃຈເປັນພິເສດ</translation>
+        <translation>ขอขอบคุณเป็นพิเศษ</translation>
     </message>
     <message>
         <location filename="../src/preloadplugin/Preload.qml" line="70"/>
         <source>This project was developed with the great help of the deepin community. In the name of the entire community, we would like to thank all the developers and contributors who made this release possible.</source>
-        <translation>ໂຄງການນີ້ໄດ້ຮັບການພັດທະນາດ້ວຍການຊ່ວຍເຫຼືອອັນໃຫຍ່ຫຼວງຈາກຊຸມຊົນ deepin. ໃນນາມຂອງຊຸມຊົນທັງໝົດ, ພວກເຮົາຂໍຂອບໃຈນັກພັດທະນາ ແລະ ຜູ້ມີສ່ວນຮ່ວມທຸກຄົນທີ່ເຮັດໃຫ້ການປ່ອຍເວີຊັນນີ້ເກີດຂຶ້ນໄດ້.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/preloadplugin/Preload.qml" line="76"/>
         <source>Interface Design</source>
-        <translation>ການອອກແບບສ່ວນຕິດຕໍ່ຜູ້ໃຊ້</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/preloadplugin/Preload.qml" line="108"/>
         <source>Program Development</source>
-        <translation>ການພັດທະນາໂປຣແກຣມ</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -49,7 +49,7 @@
     <message>
         <location filename="../src/preloadplugin/preloadplugin.cpp" line="36"/>
         <source>Deepin Tweak</source>
-        <translation>Deepin Tweak</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -58,22 +58,19 @@
         <location filename="../src/maincomponentplugin/qml/Categories/Welcome.qml" line="21"/>
         <source>Now,
 You can control.</source>
-        <translation>ຕອນນີ້,
-ທ່ານສາມາດຄວບຄຸມໄດ້.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/maincomponentplugin/qml/Categories/Welcome.qml" line="42"/>
         <source>Welcome to the deepin advanced tool -- Deepin Tweak! 
 You can define deepin in an advanced way by selecting the desired items in the sidebar. From the desktop environment to the kernel, Deepin Tweak gives you a high degree of customizability. Now, let&apos;s explore! 
 If you have more suggestions for this software, please feel free to submit a Pull Request or Issue; if this software has helped you, you can consider donating to us, or why not also give us a Star for our project. your support is our motivation to continue development, we appreciate it.</source>
-        <translation>ຍິນດີຕ້ອນຮັບເຂົ້າສູ່ເຄື່ອງມືຂັ້ນສູງຂອງ deepin -- Deepin Tweak! 
-ທ່ານສາມາດກຳນົດຄ່າ deepin ໃນຮູບແບບຂັ້ນສູງໂດຍການເລືອກລາຍການທີ່ຕ້ອງການໃນແຖບດ້ານຂ້າງ. ຕັ້ງແຕ່ສະພາບແວດລ້ອມເດັສທັອບໄປຈົນເຖິງເຄີເນີ (kernel), Deepin Tweak ໃຫ້ຄວາມສາມາດໃນການປັບແຕ່ງໃນລະດັບສູງ. ຕອນນີ້, ມາເລີ່ມສຳຫຼວດກັນເລີຍ! 
-ຖ້າທ່ານມີຂໍ້ສະເໜີແນະເພີ່ມເຕີມສຳລັບຊອບແວນີ້, ກະລຸນາສົ່ງ Pull Request ຫຼື Issue ໄດ້ຕາມສະບາຍ; ຖ້າຊອບແວນີ້ມີປະໂຫຍດຕໍ່ທ່ານ, ທ່ານສາມາດພິຈາລະນາບໍລິຈາກໃຫ້ພວກເຮົາ, ຫຼື ໃຫ້ Star ແກ່ໂຄງການຂອງພວກເຮົາກໍໄດ້. ການສະໜັບສະໜູນຂອງທ່ານຄືກຳລັງໃຈໃຫ້ພວກເຮົາພັດທະນາຕໍ່ໄປ, ພວກເຮົາຂໍຂອບໃຈນຳທ່ານ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/maincomponentplugin/qml/Categories/Welcome.qml" line="90"/>
         <source>Made by deepin Opensource Community with love.</source>
-        <translation>ສ້າງຂຶ້ນໂດຍຊຸມຊົນໂອເພັນຊອດ deepin ດ້ວຍຄວາມຮັກ.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
